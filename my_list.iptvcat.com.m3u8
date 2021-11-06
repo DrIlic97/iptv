@@ -1,137 +1,139 @@
 #EXTM3U
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",MTV Music 24
+#EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Domaci",N1
+https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Muzicki",MTV Music 24
 http://dream4k.co:2082/mminass770399/alvrdbib3s/52150?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",MTV ROCKS VIP
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Muzicki",MTV ROCKS VIP
 http://dream4k.co:2082/mminass770399/alvrdbib3s/33761?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",MTV Dance
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Muzicki",MTV Dance
 http://dream4k.co:2082/mminass770399/alvrdbib3s/48655?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",MTV Rocks
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Muzicki",MTV Rocks
 http://dream4k.co:2082/mminass770399/alvrdbib3s/48658?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",MTV Dance
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Muzicki",MTV Dance
 http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/205266?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",MTV Hits
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Muzicki",MTV Hits
 http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/205265?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",MTV LIVE HD
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Muzicki",MTV LIVE HD
 http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/205267?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",MTV ROCKS HD
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Muzicki",MTV ROCKS HD
 http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/205264?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Nick Music
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Muzicki",Nick Music
 http://dream4k.co:2082/mminass770399/alvrdbib3s/52064?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Undefined",MTV Biggest Pop
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Muzicki",MTV Biggest Pop
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=870&deviceId=5d14fd1a252d35decbc4080c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Music",First Music channel HD
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Muzicki",First Music channel HD
 http://hz1.teleport.cc/HLS/HD.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Music",Nick Music
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Muzicki",Nick Music
 http://81.204.1.224:9981/play/a06s?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",TRACE URBAN
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Muzicki",TRACE URBAN
 http://king-tv.online:80/wctinney/aRaD1Pq2Rg/32464.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ProSieben FUN HD (Backup)
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Zabavni",ProSieben FUN HD
 http://my-vip24.live:8080/x_walde/zQYx7XwkEz/4468?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",Nova Cinema 1 HD
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Zabavni",Nova Cinema 1 HD
 http://king-tv.online:80/wctinney/aRaD1Pq2Rg/268977.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",Nova Cinema 1 HD
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Zabavni",Nova Cinema 1 HD (dodatni)
 http://king-tv.online:80/wctinney/aRaD1Pq2Rg/103131.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",Nova Cinema 2 HD
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Zabavni",Nova Cinema 2 HD
 http://king-tv.online:80/wctinney/aRaD1Pq2Rg/268978.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",Nova Cinema 2 HD
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Zabavni",Nova Cinema 2 HD (dodatni)
 http://king-tv.online:80/wctinney/aRaD1Pq2Rg/103130.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",Nova Cinema 3 HD
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Zabavni",Nova Cinema 3 HD
 http://king-tv.online:80/wctinney/aRaD1Pq2Rg/268979.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",Nova Cinema 4 HD
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Zabavni",Nova Cinema 4 HD
 http://king-tv.online:80/wctinney/aRaD1Pq2Rg/268980.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",Star HD
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Regionalni",Star HD
 http://king-tv.online:80/wctinney/aRaD1Pq2Rg/196621.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",Skai HD
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Regionalni",Skai HD (dodatni)
 http://my-vip24.live:8080/x_walde/zQYx7XwkEz/14058?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",Skai HD
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Regionalni",Skai HD (dodatni)
 http://king-tv.online:80/wctinney/aRaD1Pq2Rg/196622.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",Skai HD
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Regionalni",Skai HD (dodatni)
 http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/205941?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN Movies First HD
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Zabavni",OSN Movies First HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/80227?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN Series Comedy HD
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Zabavni",OSN Series Comedy HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/80221?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN Series First HD
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Zabavni",OSN Series First HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/80222?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",OSN Movies Disney HD
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Zabavni",OSN Movies Disney HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/80225?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Undefined",RTL [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Regionalni",RTL [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Undefined",RTL [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Regionalni",RTL [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AMC
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Zabavni",AMC
 http://iptv.csserv.co:8000/live/clientr725/631739/8116.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky MAX HD
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Zabavni",Sky MAX 
 http://king-tv.online:80/wctinney/aRaD1Pq2Rg/278759.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky1-FHD
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Zabavni",Sky Showcase HD
 http://live.iptvtotaal.com:8000/6234122498/8329556324/36203?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY ONE HD
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Zabavni",SKY Showcase dodatni
 http://dream4k.co:2082/mminass770399/alvrdbib3s/50799?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Channel 4 HD
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Zabavni",Channel 4 HD
 http://king-tv.online:80/wctinney/aRaD1Pq2Rg/158365.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Channel 4 HD
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Zabavni",Channel 4 HD
 http://dream4k.co:2082/mminass770399/alvrdbib3s/224022?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",E4
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Zabavni",E4
 http://dream4k.co:2082/mminass770399/alvrdbib3s/224029?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="http://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" group-title="Undefined",BBC Food
+#EXTINF:0 tvg-country="UN" tvg-logo="http://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" group-title="Zabavni",BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="http://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png" group-title="Undefined",BBC Home
+#EXTINF:0 tvg-country="UN" tvg-logo="http://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png" group-title="Zabavni",BBC Home
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Undefined",BBC Brit FHD DK [Multi-Sub]
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Zabavni",BBC Brit FHD DK [Multi-Sub]
 http://dream4k.co:2082/mminass770399/alvrdbib3s/58091?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Undefined",BBC BRIT NORDIC FHD [Multi-sub]
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Zabavni",BBC BRIT NORDIC FHD [Multi-sub]
 http://king-tv.online:80/wctinney/aRaD1Pq2Rg/103705.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Undefined",BBC Earth FHD DK [Multi-Sub]
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Zabavni",BBC Earth FHD DK [Multi-Sub]
 http://dream4k.co:2082/mminass770399/alvrdbib3s/58092?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Undefined",BBC Earth HD DK [Multi-Sub]
+#EXTINF:0 tvg-country="DK" tvg-logo="" group-title="Zabavni",BBC Earth HD DK [Multi-Sub]
 http://dream4k.co:2082/mminass770399/alvrdbib3s/58093?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/F9GnABn.png" group-title="Entertainment;Undefined",Adult Swim,US | Adult Swim
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/F9GnABn.png" group-title="Zabavni",Adult Swim,US | Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="Undefined",Nick Pluto TV
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="Deciji",Nick Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NICK TEEN HD
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Deciji",NICK TEEN HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/67785?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Zabavni",HBO 2
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26847?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="http://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/colorLogoPNG.png" group-title="Undefined",Comedy Central Pluto TV
+#EXTINF:0 tvg-country="UN" tvg-logo="http://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/colorLogoPNG.png" group-title="Zabavni",Comedy Central Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/MTVPlutoTV_190x190.png?raw=true" group-title="Undefined",MTV Pluto
+#EXTINF:0 tvg-country="UN" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/MTVPlutoTV_190x190.png?raw=true" group-title="Zabavni",MTV Pluto
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" group-title="Movies",Hallmark Movies & More
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" group-title="Zabavni",Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",TV2
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Regionalni",TV2
 http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15550?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Undefined",AMC Presents
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Zabavni",AMC Presents
 https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Undefined",AMC Rush
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Zabavni",AMC Rush
 https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",AMC Slightly off
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni",IFC Slightly off
 https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="http://images.pluto.tv/channels/5e8254118601b80007b4b7ae/colorLogoPNG.png" group-title="Undefined",Stories by AMC
+#EXTINF:0 tvg-country="UN" tvg-logo="http://images.pluto.tv/channels/5e8254118601b80007b4b7ae/colorLogoPNG.png" group-title="Zabavni",Stories by AMC
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",AMC All Weddings
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni",WEtv All Weddings
 https://amc-allweddings-1.vizio.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Undefined",AMC IFC Film Picks
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Zabavni",IFC Film Picks
 https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Undefined",AMC Absolute Reality
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Zabavni",WEtv Absolute Reality
 https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Zabavni",AMC
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26964?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC HD
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Zabavni",AMC HD
 http://iptv.csserv.co:8000/live/clientr725/631739/8645.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",IFC  US
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Zabavni",IFC  US
 http://linea.cc:8000/test123/test123/56510.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",IFC
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Zabavni",IFC
 http://mains.services:2086/nick5404/9928627/611?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BBC AMERICA
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Zabavni",BBC AMERICA
 http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/7117?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BBC AMERICA FHD 1080
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Zabavni",BBC AMERICA FHD 1080
 http://mains.services:2086/nick5404/9928627/64153?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BBC America  US
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Zabavni",BBC America  US
 http://linea.cc:8000/test123/test123/25542.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Sundance Channel
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Zabavni",Sundance Channel
 http://iptv.csserv.co:8000/live/clientr725/631739/8618.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Sundance FHD
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Zabavni",Sundance FHD
 http://live.iptvtotaal.com:8000/6234122498/8329556324/41819?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Sundance  US
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Zabavni",Sundance  US
 http://linea.cc:8000/test123/test123/25541.ts?checkedby:iptvcat.com
