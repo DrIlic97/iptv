@@ -95,6 +95,8 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", CW Fresno
 http://mains.services:2086/nick5404/9928627/101344?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", CW Fresno
+http://dream4k.co:2082/mminass770399/alvrdbib3s/64656?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", FOX 23 Tulsa
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Zabavni",AMC Presents
