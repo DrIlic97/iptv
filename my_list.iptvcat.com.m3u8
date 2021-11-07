@@ -93,7 +93,7 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", CW Fresno
 http://mains.services:2086/nick5404/9928627/101344?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", CW Phily
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", CW Phily HD
 http://dream4k.co:2082/mminass770399/alvrdbib3s/64656?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", FOX 23
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8?checkedby:iptvcat.com
@@ -111,11 +111,11 @@ https://amc-allweddings-1.vizio.wurl.com/manifest/playlist.m3u8?checkedby:iptvca
 https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Zabavni",WEtv Absolute Reality
 https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Zabavni",AMC
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Zabavni",AMC FHD 
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26964?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Zabavni",IFC
 http://mains.services:2086/nick5404/9928627/611?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Zabavni",BBC America
 http://mains.services:2086/nick5404/9928627/64153?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Zabavni",Sundance US
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Zabavni",Sundance HD
 http://live.iptvtotaal.com:8000/6234122498/8329556324/41819?checkedby:iptvcat.com
