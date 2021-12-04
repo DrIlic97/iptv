@@ -15,16 +15,8 @@ https://list.iptvcat.com/my_list/s/e22a4232eb28da76c17c075ad6518cda.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=870&deviceId=5d14fd1a252d35decbc4080c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Muzicki",First Music channel HD
 http://hz1.teleport.cc/HLS/HD.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Zabavni",Nova Cinema 1 HD
-https://list.iptvcat.com/my_list/s/52bfc695c1c4fed66d97ee9b19fe6bb6.m3u8
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Zabavni",Nova Cinema 2 HD
-http://king-tv.online:80/wctinney/aRaD1Pq2Rg/268978.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Zabavni",Nova Cinema 3 HD
-https://list.iptvcat.com/my_list/s/78f5fc475b0f66e0defc7c20f2e6f813.m3u8
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Zabavni",Nova Cinema 4 HD
-https://list.iptvcat.com/my_list/s/081e6a60204d4f486f00c0edb583cdbe.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Regionalni",Star HD
-https://list.iptvcat.com/my_list/s/68ee309dcb0b39e0512b15e9618ffe84.m3u8
+https://list.iptvcat.com/my_list/s/fad7a2a133d2e22a899de3e457333502.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", CW WPIX
 https://list.iptvcat.com/my_list/s/0146ee8f50315446022e143bdc860660.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", FOX 23
