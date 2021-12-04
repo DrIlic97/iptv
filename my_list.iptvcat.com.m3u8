@@ -2,21 +2,15 @@
 #EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Domaci",N1
 https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
 #EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Domaci",Nova S
-https://list.iptvcat.com/my_list/s/8350a4b93f3d5c3312e5eed660f63974.m3u8
+https://list.iptvcat.com/my_list/s/b42d21455465552852ae5677cfa5f4f1.m3u8
 #EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Domaci",Prva Plus
 https://list.iptvcat.com/my_list/s/a8d25ecc1d480eb0b62796fa904e4f1f.m3u8
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", Pickbox
-https://list.iptvcat.com/my_list/s/9bd6265e983ea4517f06069fbdce84e0.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", Cinemania
 https://list.iptvcat.com/my_list/s/13054fe697c7e2076300e3365a652972.m3u8
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", Cinestar Premiere 1
-https://list.iptvcat.com/my_list/s/7f9751ec1b1e61e71f45013c96bdea59.m3u8
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", Cinestar Premiere 2
-https://list.iptvcat.com/my_list/s/b97e3586d293123380b53ad2d9d0417d.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", Nova HR
-https://list.iptvcat.com/my_list/s/a68900904d89f2dfa1b4d0af2bb98eeb.m3u8
+https://list.iptvcat.com/my_list/s/5a5bd0a3ca3aec6c3e43543bb3f3fd9d.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", Doma HR
-https://list.iptvcat.com/my_list/s/2b374b2c20340b617ace96b4afd8a40b.m3u8
+https://list.iptvcat.com/my_list/s/e22a4232eb28da76c17c075ad6518cda.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Muzicki",MTV Biggest Pop
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=870&deviceId=5d14fd1a252d35decbc4080c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Muzicki",First Music channel HD
