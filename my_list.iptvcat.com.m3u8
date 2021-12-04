@@ -11,6 +11,12 @@ https://list.iptvcat.com/my_list/s/13054fe697c7e2076300e3365a652972.m3u8
 https://list.iptvcat.com/my_list/s/5a5bd0a3ca3aec6c3e43543bb3f3fd9d.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", Doma HR
 https://list.iptvcat.com/my_list/s/e22a4232eb28da76c17c075ad6518cda.m3u8
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", Planet SLO
+https://list.iptvcat.com/my_list/s/1ca09723c5dafa6b8d5e04b4a357553e.m3u8
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", Brio SLO
+https://list.iptvcat.com/my_list/s/cae22ac6236e52838a4f314d083c24a2.m3u8
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", TV Vijesti
+https://list.iptvcat.com/my_list/s/6c855aff41bbf7f6cac7af766f43c4d6.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Muzicki",MTV Biggest Pop
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=870&deviceId=5d14fd1a252d35decbc4080c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Muzicki",First Music channel HD
