@@ -1,53 +1,28 @@
 #EXTM3U
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Premium",HBO
 http://stariptv.org:8080/wael2021/123456/148468?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO2
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Premium",HBO2
 http://myhosting.one:8080/arsenal1/arsenal1/261310?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Premium",HBO Comedy
 http://stariptv.org:8080/wael2021/123456/148471?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Signature
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Premium",HBO Signature
 http://stariptv.org:8080/wael2021/123456/148470?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Zone
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Premium",HBO Zone
 http://stariptv.org:8080/wael2021/123456/148469?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Cinemax East
-http://gtv23.xyz:80/rererere/rererere/176013.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA CINEMAX ACTION MAX EAST
-http://gtv23.xyz:80/rererere/rererere/176011.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA CINEMAX MOREMAX East
-http://gtv23.xyz:80/rererere/rererere/176016.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA CINEMAX MOVIEMAX East
-http://gtv23.xyz:80/rererere/rererere/176018.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA CINEMAX OUTER MAX
-http://gtv23.xyz:80/rererere/rererere/176020.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA CINEMAX THRILLERMAX East
-http://gtv23.xyz:80/rererere/rererere/176021.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Cinemax 5 StarMax East
-http://gtv23.xyz:80/rererere/rererere/176010.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA EPIX
-http://gtv23.xyz:80/rererere/rererere/176026.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA EPIX Hits LHD
-http://gtv23.xyz:80/rererere/rererere/176028.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA EPIX2
-http://gtv23.xyz:80/rererere/rererere/176030.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA EPIX Drive-In
-http://gtv23.xyz:80/rererere/rererere/176027.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Freeform
-http://gtv23.xyz:80/rererere/rererere/175852.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Nickelodeon
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Premium",Cinemax
+http://stariptv.org:8080/wael2021/123456/148473?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Premium",CINEMAX ACTION MAX HD 1080P
+http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/323385?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Premium",CINEMAX MOREMAX
+http://mains.services:2086/kixy2030/u8zC9nvB69/14944?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Premium",CINEMAX OUTERMAX
+http://mains.services:2086/kixy2030/u8zC9nvB69/45496?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Premium",Cinemax ThrillerMax HD 1080P
+http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/323381?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Basic Cable",FREEFORM
+http://proxy.ottoprime.net:80/Muslu/Muslu1/22788?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Basic Cable",Nickelodeon
 http://stariptv.org:8080/wael2021/123456/148481?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",POP
-http://mains.services:2086/kixy2030/u8zC9nvB69/15308?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY SHOWCASE
-http://mains.services:2086/kixy2030/u8zC9nvB69/98687?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY MAX
-http://mains.services:2086/kixy2030/u8zC9nvB69/101702?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY ATLANTIC HD
-http://smartsw.xyz:8080/tom/tom123/401768?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY WITNESS
-http://mains.services:2086/kixy2030/u8zC9nvB69/38338?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY COMEDY
-http://mains.services:2086/kixy2030/u8zC9nvB69/98688?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY CINEMA PREMIERE
-http://mains.services:2086/kixy2030/u8zC9nvB69/87578?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY DOCUMENTARIES
-http://mains.services:2086/kixy2030/u8zC9nvB69/99207?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Basic Cable",POP TV HD 1080P
+http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/323285?checkedby:iptvcat.com
+
