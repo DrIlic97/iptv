@@ -1,29 +1,53 @@
 #EXTM3U
-#EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Domaci",N1
-https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
-#EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Domaci",Nova S
-https://list.iptvcat.com/my_list/s/b42d21455465552852ae5677cfa5f4f1.m3u8
-#EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Domaci",Prva Plus
-https://list.iptvcat.com/my_list/s/a8d25ecc1d480eb0b62796fa904e4f1f.m3u8
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", Cinemania
-https://list.iptvcat.com/my_list/s/13054fe697c7e2076300e3365a652972.m3u8
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", Nova HR
-https://list.iptvcat.com/my_list/s/5a5bd0a3ca3aec6c3e43543bb3f3fd9d.m3u8
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", Doma HR
-https://list.iptvcat.com/my_list/s/e22a4232eb28da76c17c075ad6518cda.m3u8
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", Planet SLO
-https://list.iptvcat.com/my_list/s/1ca09723c5dafa6b8d5e04b4a357553e.m3u8
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", Brio SLO
-https://list.iptvcat.com/my_list/s/cae22ac6236e52838a4f314d083c24a2.m3u8
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", TV Vijesti
-https://list.iptvcat.com/my_list/s/6c855aff41bbf7f6cac7af766f43c4d6.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Muzicki",MTV Biggest Pop
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=870&deviceId=5d14fd1a252d35decbc4080c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Muzicki",First Music channel HD
-http://hz1.teleport.cc/HLS/HD.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Regionalni",Star HD
-https://list.iptvcat.com/my_list/s/fad7a2a133d2e22a899de3e457333502.m3u8
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", CW WPIX
-https://list.iptvcat.com/my_list/s/0146ee8f50315446022e143bdc860660.m3u8
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Zabavni", FOX 23
-https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO
+http://stariptv.org:8080/wael2021/123456/148468?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO2
+http://myhosting.one:8080/arsenal1/arsenal1/261310?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy
+http://stariptv.org:8080/wael2021/123456/148471?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Signature
+http://stariptv.org:8080/wael2021/123456/148470?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Zone
+http://stariptv.org:8080/wael2021/123456/148469?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Cinemax East
+http://gtv23.xyz:80/rererere/rererere/176013.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA CINEMAX ACTION MAX EAST
+http://gtv23.xyz:80/rererere/rererere/176011.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA CINEMAX MOREMAX East
+http://gtv23.xyz:80/rererere/rererere/176016.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA CINEMAX MOVIEMAX East
+http://gtv23.xyz:80/rererere/rererere/176018.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA CINEMAX OUTER MAX
+http://gtv23.xyz:80/rererere/rererere/176020.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA CINEMAX THRILLERMAX East
+http://gtv23.xyz:80/rererere/rererere/176021.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Cinemax 5 StarMax East
+http://gtv23.xyz:80/rererere/rererere/176010.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA EPIX
+http://gtv23.xyz:80/rererere/rererere/176026.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA EPIX Hits LHD
+http://gtv23.xyz:80/rererere/rererere/176028.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA EPIX2
+http://gtv23.xyz:80/rererere/rererere/176030.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA EPIX Drive-In
+http://gtv23.xyz:80/rererere/rererere/176027.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Freeform
+http://gtv23.xyz:80/rererere/rererere/175852.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Nickelodeon
+http://stariptv.org:8080/wael2021/123456/148481?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",POP
+http://mains.services:2086/kixy2030/u8zC9nvB69/15308?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY SHOWCASE
+http://mains.services:2086/kixy2030/u8zC9nvB69/98687?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY MAX
+http://mains.services:2086/kixy2030/u8zC9nvB69/101702?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY ATLANTIC HD
+http://smartsw.xyz:8080/tom/tom123/401768?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY WITNESS
+http://mains.services:2086/kixy2030/u8zC9nvB69/38338?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY COMEDY
+http://mains.services:2086/kixy2030/u8zC9nvB69/98688?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY CINEMA PREMIERE
+http://mains.services:2086/kixy2030/u8zC9nvB69/87578?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY DOCUMENTARIES
+http://mains.services:2086/kixy2030/u8zC9nvB69/99207?checkedby:iptvcat.com
