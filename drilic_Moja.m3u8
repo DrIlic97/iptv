@@ -1,0 +1,70 @@
+#EXTM3U
+#EXTINF:0,Kurir TV
+#EXTGRP:Domaći
+https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Red TV
+#EXTGRP:Domaći
+https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,AMC
+#EXTGRP:Entertainment
+https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Adult Swim
+#EXTGRP:Entertainment
+https:\\tve-live-lln.warnermediacdn.com\hls\live\2023183\aseast\noslate\VIDEO_1_5128000.m3u8
+#EXTINF:0,TruTV
+#EXTGRP:Entertainment
+https:\\tve-live-lln.warnermediacdn.com\hls\live\2023176\trueast\slate\VIDEO_0_3564000.m3u8
+#EXTINF:0,TBS
+#EXTGRP:Entertainment
+https:\\tve-live-lln.warnermediacdn.com\hls\live\2023172\tbseast\slate\VIDEO_0_3564000.m3u8
+#EXTINF:0,TNT
+#EXTGRP:Entertainment
+https:\\tve-live-lln.warnermediacdn.com\hls\live\2023170\tntwest\slate\VIDEO_0_3564000.m3u8
+#EXTINF:0,TCM
+#EXTGRP:Entertainment
+https:\\tve-live-lln.warnermediacdn.com\hls\live\2023186\tcmeast\noslate\VIDEO_1_5128000.m3u8
+#EXTINF:0,TF1 Séries Films
+#EXTGRP:Entertainment
+http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Vice
+#EXTGRP:Entertainment
+https://d2do1g43aq7264.cloudfront.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Reelz
+#EXTGRP:Entertainment
+https://dai2.xumo.com/xumocdn/p=redbox&amp;deviceid=&amp;is_lat=&amp;subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Dust
+#EXTGRP:Entertainment
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Game Show Network
+#EXTGRP:Entertainment
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Sundance
+#EXTGRP:Entertainment
+https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Deluxe Music (720p)
+#EXTGRP:Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8?checkedby:iptvcat.com
+#EXTINF:0,XITE
+#EXTGRP:Music
+https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Club MTV
+#EXTGRP:Music
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/17779?checkedby:iptvcat.com
+#EXTINF:0,MTV 90s
+#EXTGRP:Music
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/17778?checkedby:iptvcat.com
+#EXTINF:0,Das Erste
+#EXTGRP:International
+https://mcdn.daserste.de/daserste/de/profile1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,SKAÏ
+#EXTGRP:International
+https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate600K.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Pro Tv
+#EXTGRP:International
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/17698?checkedby:iptvcat.com
+#EXTINF:0,Acasa
+#EXTGRP:International
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/17706?checkedby:iptvcat.com
+#EXTINF:0,Acasa Gold
+#EXTGRP:International
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/17707?checkedby:iptvcat.com
