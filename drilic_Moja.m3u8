@@ -5,21 +5,3 @@ https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=nova
 #EXTINF:0,N1 Srbija
 #EXTGRP:Domaći
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
-#EXTINF:0,AMC
-#EXTGRP:Entertainment
-https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Adult Swim
-#EXTGRP:Entertainment
-https:\\tve-live-lln.warnermediacdn.com\hls\live\2023183\aseast\noslate\VIDEO_1_5128000.m3u8
-#EXTINF:0,TruTV
-#EXTGRP:Entertainment
-https:\\tve-live-lln.warnermediacdn.com\hls\live\2023176\trueast\slate\VIDEO_0_3564000.m3u8
-#EXTINF:0,TBS
-#EXTGRP:Entertainment
-https:\\tve-live-lln.warnermediacdn.com\hls\live\2023172\tbseast\slate\VIDEO_0_3564000.m3u8
-#EXTINF:0,TNT
-#EXTGRP:Entertainment
-https:\\tve-live-lln.warnermediacdn.com\hls\live\2023170\tntwest\slate\VIDEO_0_3564000.m3u8
-#EXTINF:0,TCM
-#EXTGRP:Entertainment
-https:\\tve-live-lln.warnermediacdn.com\hls\live\2023186\tcmeast\noslate\VIDEO_1_5128000.m3u8
